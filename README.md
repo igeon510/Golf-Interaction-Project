@@ -2,6 +2,6 @@
 
 ### 🏌️‍♂️Detecting Golf Swing 
 
-### 🧍‍♂️Interaction with Human Pose
+### 🧍‍♂️Interaction with Human Pose (Mediapipe)
 
 ### 🎥 Video Controll with VLC 
