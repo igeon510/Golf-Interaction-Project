@@ -4,4 +4,4 @@
 
 ### 🧍‍♂️Interaction with Human Pose (Mediapipe)
 
-### 🎥 Video Controll with VLC 
+### 🎥 Video Control with VLC 
