@@ -5,3 +5,5 @@
 ### 🧍‍♂️Interaction with Human Pose (Mediapipe)
 
 ### 🎥 Video Control with VLC 
+
+### 🖥️ GUI with PySide6
